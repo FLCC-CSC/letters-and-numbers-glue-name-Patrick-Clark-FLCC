@@ -1,8 +1,8 @@
 # FILE NAME - glue_name.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Patrick Clark 
+# DATE: 2/23/2025
+# BRIEF DESCRIPTION: This code will ask the user for their first and last name, then it will respond with a greeting. 
 
 
 
@@ -17,15 +17,12 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
     
+first_name = input('Enter first name: ')
+last_name = input('Enter last name: ')
+print(f'Hi, {first_name} {last_name}')
+
     
-    
-    
-    
-    
-    
-    
-    
-    
+     
 ########### END YER CODE ABOVE THIS LINE ###########
 
 
@@ -76,7 +73,7 @@ Hi, Lisa Simpson, esquire
 1. What is a lesson you learned during this lab? You do not have to restrict
    your response to Python. It might be a lesson in time management, a lesson
    using CodeGrade, or something else.
-
+I learned how to properly submit a code for grading. 
 
 
 
